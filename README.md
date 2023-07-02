@@ -15,7 +15,7 @@ To get started with the random personality generator riddle, follow these steps:
 
 1. **Clone the repository**: Begin by cloning this GitHub repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/random-personality-generator-riddle.git
+   git clone https://github.com/SheikhMizan/random-personality-generator-riddle.git
    ```
 
 2. **Install dependencies**: Navigate to the repository's directory on your machine and install the required dependencies by running the following command:
